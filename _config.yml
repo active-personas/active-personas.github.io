@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Active Personas
+
+description: Active Personas (APs), fictional users capable of generating contextual feedback through an interactive multi-modal interaction, such as text, voice, image, and video. APs enable development teams to gather feedback on their solutions through iterative internal experimentation. APs use generative artificial intelligence to enable dynamic multi-modal interaction and utilize user personas to generate contextual feedback.
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://active-personas.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-default-layout
+
+color_scheme: dark
+
