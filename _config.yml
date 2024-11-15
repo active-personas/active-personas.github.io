@@ -11,6 +11,10 @@ aux_links:
 
 plugins:
   - jekyll-default-layout
+  - jekyll_img
 
 color_scheme: dark
 
+back_to_top: true
+
+back_to_top_text: "Back to top"
