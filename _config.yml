@@ -6,15 +6,42 @@ theme: just-the-docs
 
 url: https://active-personas.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+baseurl: ""
 
-plugins:
-  - jekyll-default-layout
-  - jekyll_img
+favicon_ico: "/assets/favicon.ico"
 
-color_scheme: dark
+logo: "/assets/active-personas-logo-long.svg"
+
+repository: active-personas/active-personas.github.io
+
+enable_copy_code_button: true
+
+nav_enabled: true
 
 back_to_top: true
 
 back_to_top_text: "Back to top"
+
+aux_links:
+  GitHub Repository: https://github.com/active-personas/active-personas.github.io
+
+plugins:
+  - jekyll-default-layout
+  - jekyll_img
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
