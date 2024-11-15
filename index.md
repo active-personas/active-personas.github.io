@@ -46,6 +46,6 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 
 # Reach Us!
 
-Interest to participate in the project? Please send us an email!
+Interest to participate in the project? Please send us an email.
 + Mario **Simaremare**: <mario.simaremare@bth.se>
 + Henry **Edison**: <henry.edison@bth.se>
