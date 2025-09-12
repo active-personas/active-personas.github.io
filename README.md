@@ -7,10 +7,10 @@ Active Personas (APs), fictional users capable of generating contextual feedback
 
 # Reach Us!
 
-Interest to participate in the project? Please send us an email.
 Interest to participate in the project? Please send us an email!
 + Mario **Simaremare**: <mario.simaremare@bth.se>
 + Henry **Edison**: <henry.edison@bth.se>
+
 
 # Acknowledgements
 
