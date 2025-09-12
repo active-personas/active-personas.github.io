@@ -33,7 +33,7 @@ User personas are *"hypothetical archetypes of actual users"* developed iterativ
 
 ## GenAI
 
-As a subset of AI technology, GenAI can create novel human-like generated content in various modalities, including texts, images, audio, videos, and simulations. This technology lever￾ages advanced machine learning models to recognize patterns and relationships within a large dataset to generate responses to given inputs. Approaches, such as retrieval-augmented generation (RAG) and fine-tuning, can feed user per￾sonas and other RE artifacts into GenAI.
+As a subset of AI technology, GenAI can create novel human-like generated content in various modalities, including texts, images, audio, videos, and simulations. This technology lever￾ages advanced machine learning models to recognize patterns and relationships within a large dataset to generate responses to given inputs. Approaches, such as retrieval-augmented generation (RAG) and fine-tuning, can feed user personas and other RE artifacts into GenAI.
 
 
 # Our Plan
@@ -41,7 +41,14 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 1. Develop an initial prototype of APs
 2. Studies in controlled settings, e.g., open-source projects
 3. Studies in ongoing projects in various types and domains
-4. Evaluate the alignment between the internal & external experimentation.
+4. Evaluate the alignment between the internal & external experimentation
+
+
+# On Going Work
+
+## Early Prototype and Viability of APs
+
+We developed an early prototype of APs and tested it with a transportation app used in Sweden. The results show a promising alignment between APs' generated feedback and human user feedback gathered through interviews and the app's Google Play page. The prototype used two user personas, one of which represents a group of users with slight vision impairment. Four state-of-the-art LLMs were used, including Claude Sonnet 4, Google Gemini 2.5 Pro, Meta Llama 4 (Maverick), and the recent OpenAI ChatGPT 5.
 
 
 # Reach Us!
@@ -49,3 +56,4 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 Interest to participate in the project? Please send us an email!
 + Mario **Simaremare**: <mario.simaremare@bth.se>
 + Henry **Edison**: <henry.edison@bth.se>
++ Nauman **bin Ali**: <nauman.ali@bth.se>
