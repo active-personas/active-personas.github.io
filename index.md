@@ -44,13 +44,13 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 
 # Roadmap
 
-1. AP conceptual validation (Jul 2025) 
+1. AP conceptual validation (Jul 2024) 
 2. Develop an APs prototype for conceptual and practical validation
   + <input type="checkbox" disabled checked /> Early prototype for concept viability (Aug 2025)
   + <input type="checkbox" disabled /> Web-based prototype for public use and evaluation (Nov 2025)
 3. Studies in controlled settings, e.g., open-source projects
 4. Studies in ongoing projects in various types and domains
-  + <input type="checkbox" disabled checked />Usability evaluation (using Nielsen's heuristics) in transportation domain (Aug 2025)
+  + <input type="checkbox" disabled checked /> Usability evaluation (using Nielsen's heuristics) in transportation domain (Aug 2025)
 5. Evaluate the alignment between the internal & external experimentation
 
 
@@ -64,6 +64,6 @@ We are currently developing a web-based prototype of APs. The prototype is expec
 # Reach Us!
 
 Interest to participate in the project? Please send us an email!
-+ Mario **Simaremare**: <mario.simaremare@bth.se>
-+ Henry **Edison**: <henry.edison@bth.se>
-+ Nauman **bin Ali**: <nauman.ali@bth.se>
++ Mario **Simaremare**: <mario.simaremare@bth.se> | [profile](https://www.bth.se/english/staff-landing-page/mario-simaremare)
++ Henry **Edison**: <henry.edison@bth.se> | [profile](https://www.bth.se/english/staff-landing-page/henry-edison)
++ Nauman **bin Ali**: <nauman.ali@bth.se> | [profile](https://www.bth.se/english/staff-landing-page/nauman-ali)
