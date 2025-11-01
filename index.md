@@ -20,7 +20,6 @@ layout: about
 User participation and user feedback are essential to the suc￾cess of new product development (NPD). Development teams use user feedback to derive requirement engineering artifacts, such as user scenarios, user stories, concept mindmaps, and user personas, to guide them in identifying and addressing a particular user problem. However, finding enough user participation to collect meaningful feedback is challenging, and less attention has been given to addressing this.
 
 
-
 # Active Personas
 
 **Active Personas** (**APs**), fictional users capable of generating contextual feedback through an interactive multi-modal interaction, such as text, voice, image, and video. APs enable development teams to gather feedback on their solutions through iterative internal experimentation. APs use generative artificial intelligence (GenAI) to enable dynamic multi-modal interaction and utilize user personas to generate contextual feedback.
@@ -36,19 +35,30 @@ User personas are *"hypothetical archetypes of actual users"* developed iterativ
 As a subset of AI technology, GenAI can create novel human-like generated content in various modalities, including texts, images, audio, videos, and simulations. This technology lever￾ages advanced machine learning models to recognize patterns and relationships within a large dataset to generate responses to given inputs. Approaches, such as retrieval-augmented generation (RAG) and fine-tuning, can feed user personas and other RE artifacts into GenAI.
 
 
-# Our Plan
+# Publications
 
-1. Develop an initial prototype of APs
-2. Studies in controlled settings, e.g., open-source projects
-3. Studies in ongoing projects in various types and domains
-4. Evaluate the alignment between the internal & external experimentation
+1. Mario Simaremare, Henry Edison, "Active Personas for Synthetic User Feedback: A Design Science Study", 2025. ([View](https://doi.org/10.13140/RG.2.2.33753.17764))
+
+2. Mario Simaremare, Henry Edison, "Accelerating New Product Development: A Vision on Active Personas", Software Business, ICSOB 2024, ISSN 1865-1348, EISSN 1865-1356, pp. 461-466, Springer Science+Business Media B.V., 2025 ([View](https://doi.org/10.1007/978-3-031-85849-9_36))
+
+
+# Roadmap
+
+1. AP conceptual validation (Jul 2025) 
+2. Develop an APs prototype for conceptual and practical validation
+  + <input type="checkbox" disabled checked /> Early prototype for concept viability (Aug 2025)
+  + <input type="checkbox" disabled /> Web-based prototype for public use and evaluation (Nov 2025)
+3. Studies in controlled settings, e.g., open-source projects
+4. Studies in ongoing projects in various types and domains
+  + <input type="checkbox" disabled checked />Usability evaluation (using Nielsen's heuristics) in transportation domain (Aug 2025)
+5. Evaluate the alignment between the internal & external experimentation
 
 
 # On Going Work
 
-## Early Prototype and Viability of APs
+## Making a Working Prototype Publicly Available (November 2025)
 
-We developed an early prototype of APs and tested it with a transportation app used in Sweden. The results show a promising alignment between APs' generated feedback and human user feedback gathered through interviews and the app's Google Play page. The prototype used two user personas, one of which represents a group of users with slight vision impairment. Four state-of-the-art LLMs were used, including Claude Sonnet 4, Google Gemini 2.5 Pro, Meta Llama 4 (Maverick), and the recent OpenAI ChatGPT 5.
+We are currently developing a web-based prototype of APs. The prototype is expected to be available for public use in November 2025.
 
 
 # Reach Us!
