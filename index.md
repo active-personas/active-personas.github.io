@@ -64,6 +64,6 @@ We are currently developing a web-based prototype of APs. The prototype is expec
 # Reach Us!
 
 Interest to participate in the project? Please send us an email!
-+ Mario **Simaremare**: <mario.simaremare@bth.se>, [profile](https://www.bth.se/english/staff-landing-page/mario-simaremare)
-+ Henry **Edison**: <henry.edison@bth.se>, [profile](https://www.bth.se/english/staff-landing-page/henry-edison)
-+ Nauman **bin Ali**: <nauman.ali@bth.se>, [profile](https://www.bth.se/english/staff-landing-page/nauman-ali)
++ Mario [**Simaremare**](https://www.bth.se/english/staff-landing-page/mario-simaremare): <mario.simaremare@bth.se>
++ Henry [**Edison**](https://www.bth.se/english/staff-landing-page/henry-edison): <henry.edison@bth.se>
++ Nauman [**bin Ali**](https://www.bth.se/english/staff-landing-page/nauman-ali): <nauman.ali@bth.se>
