@@ -47,8 +47,8 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 1. AP conceptual validation (Jul 2024) 
 2. Develop an APs prototype for conceptual and practical validation
   + <input type="checkbox" disabled checked /> Early prototype for concept viability (Aug 2025)
-  + <input type="checkbox" disabled /> Web-based prototype for public use and evaluation (Nov 2025)
-3. Studies in controlled settings, e.g., open-source projects
+    + <input type="checkbox" disabled checked /> Web-based prototype for public use and evaluation (Nov 2025) - [Visit active-personas.com](https://active-personas.com/){:target="_blank"}
+3. Studies in controlled settings, e.g., open-source projects (Jun 2026)
 4. Studies in ongoing projects in various types and domains
   + <input type="checkbox" disabled checked /> Usability evaluation (using Nielsen's heuristics) in transportation domain (Aug 2025)
 5. Evaluate the alignment between the internal & external experimentation
@@ -56,9 +56,9 @@ As a subset of AI technology, GenAI can create novel human-like generated conten
 
 # On Going Work
 
-## Making a Working Prototype Publicly Available (November 2025)
+## Studies in controlled settings, e.g., open-source projects (June 2026)
 
-We are currently developing a web-based prototype of APs. The prototype is expected to be available for public use in November 2025.
+We are evaluating AP prototype in controlled setting. We plan to use open-source projects as well as a completed projects.
 
 
 # Reach Us!
